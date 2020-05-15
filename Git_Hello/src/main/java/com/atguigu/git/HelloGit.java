@@ -12,5 +12,8 @@ public class HelloGit {
         System.out.println("冲突测试");
         System.out.println("分支1");
         System.out.println("分支11");
+        System.out.println("在线编辑1");
+        System.out.println("在线编辑11");
+        System.out.println("在线编辑111");
     }
 }
